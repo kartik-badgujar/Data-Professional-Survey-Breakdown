@@ -2,7 +2,8 @@ DATA PROFESSIONAL SURVEY BREAKDOWN
 
 Brief Description :-
 
-This project analyzes survey data from professionals in the data field, focusing on demographics, job satisfaction, programming preferences, and challenges faced by data professionals. It uses statistical and visualization tools to present insights effectively.
+This project analyzes survey data from professionals in the data field, focusing on demographics, job satisfaction, programming preferences and challenges faced by data professionals. 
+It uses statistical and visualization tools to present insights effectively.
 
 
 Overview of the Project :-
@@ -39,13 +40,16 @@ o	Recommendations for enhancing job satisfaction.
 o	PDF and interactive dashboards summarizing findings.
 
 
-•	Contributions:-
-o	Enhancing data visualizations.
-o	Adding advanced analytics like regression models or sentiment analysis.
-o	Expanding the dataset with more attributes or new survey results.
+Contributions:-
+
+1.	Enhancing data visualizations.
+2.	Adding advanced analytics like regression models or sentiment analysis.
+3.	Expanding the dataset with more attributes or new survey results.
 
 
-•	Guidelines:-
-o	Follow standard data-cleaning practices before analysis.
-o	Use consistent visualization styles for clarity.
-o	Document any new code, transformations, or modifications thoroughly.
+Guidelines:-
+
+1.	Follow standard data-cleaning practices before analysis.
+2.	Use consistent visualization styles for clarity.
+3.	Document any new code, transformations, or modifications thoroughly.
+
